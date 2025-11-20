@@ -5,6 +5,7 @@ import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Share } from "@/components/share";
 import { url } from "@/lib/metadata";
+import { Result } from "./result";
 
 type Animal = "cat" | "dog" | "fox" | "hamster" | "horse";
 
